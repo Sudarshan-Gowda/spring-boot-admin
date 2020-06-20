@@ -29,7 +29,7 @@ File -> Import -> Maven -> Existing Maven project -> spring-boot-admin
 ### To Run the Spring MVC Application:
 `step 1`: Download this repository & do maven import.<br>    
 `step 2`: Go to the main class file and run as Java application. <br> or execute commands `mvn spring-boot:run` <br>
-`step 3`: Once the application starts, result will be logged in the console as below. <br>
+`step 3`: Once the application starts, By default application will be deployed in 8080 port, and you can access it by using http://localhost:8080/ <br>
 
  <img src="https://github.com/Sudarshan-Gowda/spring-boot-admin/blob/master/docs/pro-flow.gif" width="100%"/>
 
